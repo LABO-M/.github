@@ -1,4 +1,5 @@
 ## Welcome to Mori Lab. 🙌
+![logo_wide-removebg-preview](https://github.com/LABO-M/.github/assets/83319786/23bf41e1-99d1-4dfe-aaff-d2e093870261)
 
 <!--
 
