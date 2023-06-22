@@ -1,7 +1,7 @@
 ![logo_wide_nopadding-removebg](https://github.com/LABO-M/.github/assets/83319786/0835ee61-b315-449e-a50f-7a6534b482a8)
 
 
-## 🌱 our skills
+### 🌱 our stacks
 [![My Skills](https://skillicons.dev/icons?i=py,r,vim,vscode,github,git,linux,docker&theme=light)](https://skillicons.dev)
 <!--
 
